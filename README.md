@@ -18,7 +18,6 @@
 | 🛍️ **Medical B2B App** | Admin-User platform with Flask backend for product management & order processing. |
 | 📖 **E-Book Reader App** | Android app for browsing and reading books with offline mode. |
 | 📰 **News App** | Live news updates app using REST API integration. |
-| 🧾 **Invoice & Billing App** | Kotlin-based tool to generate and manage bills and invoices. |
 | 🍕 **SQL Pizza Sales Analysis** | Data analysis project using SQL to uncover trends and insights from pizza sales data. |
 
 ---
@@ -67,7 +66,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kirtimangupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/kirtimangupta"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kirtiman29"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
