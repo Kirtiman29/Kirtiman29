@@ -1,9 +1,12 @@
+![MasterHead](https://i.ibb.co/6R69Ftvw/This-pin-is-all-about-coding.gif)
+
 <h1 align="center">Hey there 👋, I'm Kirtiman Gupta</h1>
-<h3 align="center">📱 Android Developer | 📊 Data Analyst | 🎯 Lifelong Learner</h3>
+<h3 align="center">📱 Android Developer | 📱 Flutter Developer | 📊 Data Analyst | 🎯 Lifelong Learner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Jetpack+Compose+Android+Developer;Data+Storyteller+with+Power+BI+%26+SQL;Learning+Daily+%E2%9C%A8+Building+Always" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Jetpack+Compose+Android+Developer;Flutter+Developer;Data+Storyteller+with+Power+BI+%26+SQL;Learning+Daily+%E2%9C%A8+Building+Always" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirtimangupta&label=Profile+Views&color=blue&style=flat-square" alt="profile views" />
