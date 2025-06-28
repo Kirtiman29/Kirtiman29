@@ -45,10 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtimangupta&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimangupta&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirtiman29&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirtiman29&theme=tokyonight" width="45%"/>
 </p>
-
 ---
 
 ## 🌐 Let's Connect!
