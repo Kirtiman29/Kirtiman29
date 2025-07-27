@@ -19,7 +19,10 @@
 | 💡 Project | 🔍 Description |
 |-----------|----------------|
 | 🛍️ **Medical B2B App** | Admin-User platform with Flask backend for product management & order processing. |
-| 📖 **E-Book Reader App** | Android app for browsing and reading books with offline mode. |
+| 🛒 **E-Commerce App** | Android app with separate Admin & User panels, Firebase push notifications, and Clean Architecture. |
+| 📚 **StudySmart App** | Study management app with subject tracking, task manager, timer, and local storage using Room DB. |
+| 📝 **Notes App (Flutter)** | Cross-platform basic note-taking app built using Flutter for fast and responsive UI. |
+| 🌦️ **Weather App** | Real-time weather forecast app using REST API to fetch and display weather data based on location. |
 | 📰 **News App** | Live news updates app using REST API integration. |
 | 🍕 **SQL Pizza Sales Analysis** | Data analysis project using SQL to uncover trends and insights from pizza sales data. |
 
